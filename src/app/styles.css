@@ -1,0 +1,21 @@
+:root {
+  font-size: 16px;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+.__dml_list_item {
+  width: 380px;
+  border: 1px solid black;
+  margin: 1rem 0;
+  text-align: center;
+}
+
+.__dml_list_item a {
+  font-size: 1.5rem;
+  text-decoration: none;
+}
