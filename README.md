@@ -4,8 +4,6 @@
 
 This repo is the starting point for the [screencast, Composing React JS Components Together using RenderProps](https://)
 
-You can get the full code by [clicking here](https://) @ DevmentorLive.
-
 This starter repo contains the code you will need to follow along with the screencast and includes the css and any assets you might need for it to display exactly as in the screencast.
 
 ## Expert React JS and JavaScript mentorship is available
